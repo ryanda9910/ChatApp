@@ -1,8 +1,8 @@
 //
-//  ContentView.swift
+//  AppDelegate.swift
 //  ChatApp
 //
-//  Created by NusaFox on 18/05/20.
+//  Created by Aldo Ryanda on 18/05/20.
 //  Copyright © 2020 none. All rights reserved.
 //
 
