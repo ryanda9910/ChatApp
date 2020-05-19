@@ -1,5 +1,5 @@
 //
-//  AppDelegate.swift
+//  SceneDelegate.swift
 //  ChatApp
 //
 //  Created by Aldo Ryanda on 18/05/20.
